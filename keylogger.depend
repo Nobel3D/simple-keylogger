@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1469600936 source:c:\users\luca\proj\keylogger\main.cpp
+	<conio.h>
+	<windows.h>
+	<winuser.h>
+	<iostream>
+	<ctime>
+	<fstream>
+	<cstdlib>
+
